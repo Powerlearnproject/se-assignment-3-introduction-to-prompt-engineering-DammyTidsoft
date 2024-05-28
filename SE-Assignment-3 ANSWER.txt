@@ -1,4 +1,5 @@
-#What is prompt engineering, and why is it important in the context of AI and natural language processing (NLP)? Components of a Prompt:
+#These are answers to the questions
+
 Prompt engineering involves designing and crafting prompts or input instructions to guide the behavior of AI language models during generation or inference tasks. These prompts serve as cues or directives that help the model understand the desired context or generate text that aligns with specific criteria.
 
 Prompt engineering is crucial in the context of AI and natural language processing (NLP) for several reasons:
